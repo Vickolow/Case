@@ -10,3 +10,6 @@ How to install
 
 # Update 
 how to update 
+
+# Skills
+Tester
