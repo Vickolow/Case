@@ -7,3 +7,6 @@ Test Respoisitory for ci cd course
 
 # Installation
 How to install 
+
+# Update 
+how to update 
